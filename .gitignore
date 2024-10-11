@@ -1,0 +1,17 @@
+#Ignore dir attributes (MAC)
+.DS_Store
+# Ignore R workspace files
+.RData
+.Rhistory
+.Rproj.user/
+.Rproj
+.Ruserdata/
+
+# Ignore all R temporary files
+*.Rproj.user/
+*.Rhistory
+*.RData
+
+# Ignore R markdown and other generated files
+*.html
+*.rmd
