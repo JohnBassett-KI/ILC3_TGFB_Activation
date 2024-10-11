@@ -18,7 +18,7 @@ Diana Coman¹, John W. Bassett²†, Isabelle Coales¹†, Ainize Peña-Cearra¹
 10. Clinical Lung- and Allergy Research Unit, Department of Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden & the Department of Respiratory Medicine and Allergy, Karolinska University Hospital Huddinge, Stockholm, Sweden </span>
   
 
-### This repository contains the code for generating Figure 4 for the manuscript.
+### This repository contains the code for generating Figure 4.
 
 ![](ComanEtAl_Fig4.jpg)
 
