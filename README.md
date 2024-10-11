@@ -34,7 +34,7 @@ The `HPC` directory contains Jupyter Notebook files related to processing Gut Ce
 
 The `R` directory contains R scripts organized into two subdirectories: `gca` and `pIBD`.
 
-##### gca (Fig 4 A and B)
+#### gca (Fig 4 A and B)
 
 The `gca` subdirectory contains scripts for analyzing Gut Cell Atlas data, specifically for large and small intestine datasets:
 
@@ -52,7 +52,7 @@ The `gca` subdirectory contains scripts for analyzing Gut Cell Atlas data, speci
   - **03_SI_Seurat_umap.r**: Generates UMAP visualizations for small intestine data using Seurat.
   - **SI_genFig4a.R**: Generates figures for small intestine data.
 
-##### pIBD (Fig 4 C)
+#### pIBD (Fig 4 C)
 
 The `pIBD` subdirectory contains scripts related to the integration and analysis of data for the pediatric inflammatory bowel disease dataset (pIBD):
 
